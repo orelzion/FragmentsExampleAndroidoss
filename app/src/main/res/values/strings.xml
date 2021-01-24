@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragment 101</string>
+    <string name="toggle_fragments">Toggle Fragments</string>
+</resources>
